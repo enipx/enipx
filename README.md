@@ -1,7 +1,7 @@
 #### Hi, I'm Hashir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 👨🏾‍💻 Software developer and Brand/Graphic designer. 
-- ⚡️ Check out the portfolio [here](https://enipx.com/).
+- ⚡️ Check out the portfolio [here](https://www.enipx.com/).
 - 🚀 Get in touch with [me](mailto:connect@enipx.com).
 
 <!---
